@@ -1,6 +1,6 @@
 # Netflix-UI-Clone
 ## You can visit site at: 
-https://arcane-2004.github.io/Netflix-Clone/
+https://arcane-2004.github.io/Netflix-UI-Clone/
 
 Made the UI clone of home page of Netfilx.
 ![image](https://github.com/user-attachments/assets/cfe51d89-397e-4390-b4b5-6bc1ded4b3b7)
